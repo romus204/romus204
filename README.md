@@ -27,4 +27,9 @@ Hi! My name is Roman Chesnakov, and I'm a backend developer at [MAG](https://mag
 - I'm constantly improving my skills in cybersecurity.
 - In my free time, I work on personal projects involving microcontrollers, nvim plugins and other.
 
+## ⛳️ My 2025 goals
+- Make at least 1 commit every day, even if it's the smallest one.
+
+---
+
 Thanks for visiting my page! If you have any questions or suggestions, feel free to reach out. 😊
