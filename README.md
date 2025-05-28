@@ -1,6 +1,6 @@
 # Roman Chesnakov
 
-Hi! My name is Roman Chesnakov, and I'm a backend developer at [MAG](https://magdv.com/). 
+Hi! My name is Roman Chesnakov, and I'm a backend engineer at [MAG](https://magdv.com/). 
 
 ## 🛠️ My Tech Stack
 
