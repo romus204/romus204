@@ -2,11 +2,11 @@
 
 Hi! My name is Roman Chesnakov, and I'm a backend engineer at [MAG](https://magdv.com/). 
 
-## 🛠️ My Tech Stack
+## 🛠️ My current tech stack
 
-- **Programming Languages**: Go (Golang), Lua, JavaScript, Python
+- **Programming Languages**: Go (Golang), Lua
 - **Databases**: PostgreSQL, ClickHouse, Redis
-- **Message Brokers & Queues**: NATS, Kafka
+- **Message Brokers & Queues**: NATS
 - **Containerization & Orchestration**: Docker, Kubernetes (k8s)
 
 ## 🚀 Interests
@@ -15,13 +15,13 @@ Hi! My name is Roman Chesnakov, and I'm a backend engineer at [MAG](https://magd
 - **Cybersecurity**: I'm passionate about cybersecurity and always strive to apply best practices in my projects.
 - **Microcontrollers & Single-Board Computers**: In my free time, I enjoy programming microcontrollers and experimenting with single-board computers like Raspberry Pi, Orange Pi, and Arduino.
 
-## 📫 How to Reach Me
+## 📫 How to reach me
 
 - **Email**: [romus204@gmail.com](mailto:romus204@gmail.com)
 - **Telegram**: [@just_romarik](https://t.me/just_romarik)
 - **LinkedIn**: [Roman Chesnakov](https://linkedin.com/in/just-romarik)
 
-## 🌟 Fun Facts About Me
+## 🌟 Fun facts about me
 
 - I love exploring new technologies and tools.
 - I'm constantly improving my skills in cybersecurity.
