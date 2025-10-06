@@ -1,6 +1,6 @@
 # Roman Chesnakov
 
-Hi! My name is Roman Chesnakov, and I'm a backend engineer at [MAG](https://magdv.com/). 
+Hi! My name is Roman Chesnakov, and I'm a backend engineer. 
 
 ## 🛠️ My current tech stack
 
@@ -26,9 +26,6 @@ Hi! My name is Roman Chesnakov, and I'm a backend engineer at [MAG](https://magd
 - I love exploring new technologies and tools.
 - I'm constantly improving my skills in cybersecurity.
 - In my free time, I work on personal projects involving microcontrollers, nvim plugins and other.
-
-## ⛳️ My 2025 goals
-- Make at least 1 commit every day, even if it's the smallest one.
 
 ---
 
