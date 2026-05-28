@@ -1,5 +1,3 @@
-# Roman Chesnakov
-
 ##  My current tech stack
 
 - **Programming Languages**: Go (Golang), Lua
